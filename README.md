@@ -65,8 +65,6 @@ The evaluation results for the Bernoulli Naive Bayes Classifier model with the b
     | Positive   | 0.5499             | 0.4501             |
 
 These evaluation results provide insights into the performance of the Bernoulli Naive Bayes Classifier in predicting flight delays. The metrics highlight the precision, recall, F1-score, and accuracy for both the positive and negative classes.
-
-## Results
 The project aims to predict flight delays and provide insights into the factors contributing to flight delays. The specific results achieved, such as prediction accuracy, model evaluation metrics, and analysis findings, can be described based on the execution of the project code and analysis.
 
 
